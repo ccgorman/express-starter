@@ -1,6 +1,11 @@
 # express-starter
 Simple API Server Up and Running
 
+Just run the following
+```$ npm install```
+
+This is the setup procedure
+
 Use the npm init command to create a package.json file for your application. For more information on how package.json works, see Specifics of npm’s package.json handling https://docs.npmjs.com/files/package.json.
 
 ```$ npm init```
