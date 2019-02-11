@@ -1,0 +1,22 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "description": "Simple express api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccgorman/express-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccgorman/express-starter/issues"
+  },
+  "homepage": "https://github.com/ccgorman/express-starter#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
